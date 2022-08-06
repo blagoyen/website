@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+}
+
+h1 {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 500%;
+    color: #66BFBF;
+
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+
+.top-cont{
+    position: relative;
+    background-color: #635666;
+    padding-top: 100px;
+    padding-bottom: 270px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.paraInfo{
+    line-height: 2;
+    font-weight: normal;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chill-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+
+.first-skill{
+    padding-bottom: 100px;
+}
+.second-skill{
+    padding-bottom: 100px;
+}
+
+.profile{
+    padding-top: 100px;
+}
+
+.skill-description-one{
+    position: relative;
+    padding-top: 50px;
+}
+
